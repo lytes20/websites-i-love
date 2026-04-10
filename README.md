@@ -13,3 +13,6 @@ Website Finds. Here is a list of websites that visited and absolutely loved thei
 - [gsap.com](https://gsap.com/) - Insane animations. But ofcourse, they are an animation compnay. They build animations. I would not expect anything less from the website
 
 - [lenis](https://lenis.darkroom.engineering/) - Another insane animations tool. This site has very cool animations on scroll.
+
+-[Lando Norris][https://landonorris.com/] - Found this website through this [video](https://youtu.be/HzL65tTeANs) where Wes Bos breaks down how it was built, I visited the site and its just insane. Like how do you build that on the web.
+The company behind building this website - [itsoffbrand]https://www.itsoffbrand.com/ You definately want to check out itsoffbrand, their portifolio
